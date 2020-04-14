@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/Copyright 1-2020 The Wazo Authors  (see the AUTHORS file)
+Upstream-Name: graphql-server-core
+Source: https://github.com/graphql-python/graphql-server-core
+
+Files: *
+Copyright: 2017-Present Syrus Akbary
+License: MIT
+
+Files: debian/*
+Copyright: 2020 The Wazo Authors  (see the AUTHORS file)
+License: GPL-3
