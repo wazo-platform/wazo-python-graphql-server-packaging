@@ -1,3 +1,9 @@
+wazo-python-graphql-server-core-packaging (1.2.0-1~wazo1) wazo-dev-buster; urgency=medium
+
+  * downgrade to 1.2.0
+
+ -- Wazo Maintainers <dev@wazo.community>  Fri, 17 Apr 2020 12:44:43 -0400
+
 wazo-python-graphql-server-core-packaging (2.0.0-1~wazo2) wazo-dev-buster; urgency=medium
 
   * fix dependencies
