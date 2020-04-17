@@ -1,0 +1,2 @@
+graphql_core python3-graphql-core (>= 2.3), python3-graphql-core (<< 3)
+promise python3-promise (>= 2.3), python3-promise (<< 3)

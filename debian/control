@@ -12,7 +12,6 @@ X-Python3-Version: >= 3.7
 Package: python3-graphql-server-core
 Architecture: all
 Depends: ${misc:Depends},
-         ${python3:Depends},
-         python3-promise
+         ${python3:Depends}
 Description: GraphQL server core for Python
  .
