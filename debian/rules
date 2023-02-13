@@ -2,8 +2,8 @@
 
 PKG = $(word 2,$(shell dpkg-parsechangelog | grep Source))
 VERSION ?= $(shell cat VERSION)
-URL_DOWNLOAD = "https://github.com/graphql-python/graphql-server-core/archive/v${VERSION}.tar.gz"
-export PYBUILD_NAME=graphql-server-core
+URL_DOWNLOAD = "https://github.com/graphql-python/graphql-server/archive/v${VERSION}.tar.gz"
+export PYBUILD_NAME=graphql-server
 export PYBUILD_DISABLE=test
 export PYBUILD_SYSTEM=distutils
 
