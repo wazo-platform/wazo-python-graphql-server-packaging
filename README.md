@@ -1,10 +1,10 @@
-# wazo-python-graphql-server-core-packaging
+# wazo-python-graphql-server-packaging
 
-Debian packaging for [python3-graphql-server-core](https://github.com/graphql-python/graphql-server-core/) used in Wazo.
+Debian packaging for [python3-graphql-server](https://github.com/graphql-python/graphql-server/) used in Wazo.
 
 ## Upgrading
 
-To upgrade python-graphql-server-core
+To upgrade python-graphql-server
 
 * Update the version number in the `VERSION` file
 * Update the changelog using `dch -i` to the matching version

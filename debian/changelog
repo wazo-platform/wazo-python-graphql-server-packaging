@@ -1,3 +1,9 @@
+wazo-python-graphql-server-packaging (1.2.0-1~wazo3) wazo-dev-buster; urgency=medium
+
+  * Rename graphql-server
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Mon, 13 Feb 2023 11:48:27 -0500
+
 wazo-python-graphql-server-core-packaging (1.2.0-1~wazo2) wazo-dev-buster; urgency=medium
 
   * Use debhelper 12

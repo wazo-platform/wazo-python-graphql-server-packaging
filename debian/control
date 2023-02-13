@@ -1,4 +1,4 @@
-Source: wazo-python-graphql-server-core-packaging
+Source: wazo-python-graphql-server-packaging
 Section: python
 Priority: optional
 Maintainer: Wazo Maintainers <dev+pkg@wazo.community>
@@ -9,12 +9,15 @@ Build-Depends: debhelper (>= 12),
 Standards-Version: 3.9.6
 X-Python3-Version: >= 3.7
 
-Package: python3-graphql-server-core
+Package: python3-graphql-server
 Architecture: all
+Provides: python3-graphql-server-core
+Conflicts: python3-graphql-server-core
+Replaces: python3-graphql-server-core
 Depends: ${misc:Depends},
          ${python3:Depends}
-Description: GraphQL server core for Python
- GraphQL-Server-Core is a base library that serves as a helper for building
+Description: GraphQL server for Python
+ GraphQL-Server is a base library that serves as a helper for building
  GraphQL servers or integrations into existing web frameworks using
  GraphQL-Core.
  .
