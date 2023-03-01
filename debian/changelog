@@ -1,3 +1,9 @@
+wazo-python-graphql-server-packaging (3.0.0b5-1~wazo1) wazo-dev-buster; urgency=medium
+
+  * Update graphql-server to 3.0.0b5
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 01 Mar 2023 09:57:25 -0500
+
 wazo-python-graphql-server-packaging (1.2.0-1~wazo3) wazo-dev-buster; urgency=medium
 
   * Rename graphql-server
