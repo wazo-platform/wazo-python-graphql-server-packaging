@@ -11,9 +11,9 @@ X-Python3-Version: >= 3.7
 
 Package: python3-graphql-server
 Architecture: all
-Provides: python3-graphql-server-core
-Conflicts: python3-graphql-server-core
-Replaces: python3-graphql-server-core
+Provides: python3-graphql-server-core, python3-flask-graphql
+Conflicts: python3-graphql-server-core, python3-flask-graphql
+Replaces: python3-graphql-server-core, python3-flask-graphql
 Depends: ${misc:Depends},
          ${python3:Depends}
 Description: GraphQL server for Python
