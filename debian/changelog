@@ -1,3 +1,9 @@
+wazo-python-graphql-server-packaging (3.0.0b5-1~wazo5) wazo-dev-bullseye; urgency=medium
+
+  * Follow debian guidelines for copyright file
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 06 Mar 2024 15:51:13 -0500
+
 wazo-python-graphql-server-packaging (3.0.0b5-1~wazo4) wazo-dev-bullseye; urgency=medium
 
   * Update zuul config
