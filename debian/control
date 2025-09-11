@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 12),
                python3-all,
                python3-setuptools
 Standards-Version: 3.9.6
-X-Python3-Version: >= 3.9
+X-Python3-Version: >= 3.11
 
 Package: python3-graphql-server
 Architecture: all
