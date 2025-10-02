@@ -1,3 +1,9 @@
+wazo-python-graphql-server-packaging (3.0.0b7-1~wazo1) wazo-dev-bookworm; urgency=medium
+
+  * Update to 3.0.0b7
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Thu, 02 Oct 2025 13:55:06 -0400
+
 wazo-python-graphql-server-packaging (3.0.0b5-1~wazo6) wazo-dev-bookworm; urgency=medium
 
   * Rebuild for Bookworm
